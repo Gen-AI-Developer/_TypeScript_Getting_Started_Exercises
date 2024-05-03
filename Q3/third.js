@@ -3,5 +3,5 @@
 var person_name = "syed safdar ali shah bukhari";
 var splitName = person_name.split(' ');
 console.log(splitName);
-console.log(person_name.toUpperCase);
-console.log(person_name.toLowerCase);
+console.log(person_name.toUpperCase());
+console.log(person_name.toLowerCase());
